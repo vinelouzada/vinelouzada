@@ -11,6 +11,7 @@ My name is Vinicius Louzada, I'm from Brazil and currently I'm studying Computer
 <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 Reach out to me 🖖
+  
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Louzada-6717cd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinelouzada/)](https://www.linkedin.com/in/vinelouzada/) [![Instagram Badge](https://img.shields.io/badge/-Vinicius%20Louzada-6717cd?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vinelouzada/)](https://www.instagram.com/vinelouzada/) 
 
