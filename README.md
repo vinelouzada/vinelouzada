@@ -2,7 +2,7 @@
 My name is Vinicius Louzada, I'm from Brazil and currently I'm studying Computer Engineering at Universidade Federal do Pará - UFPA - Tucuruí (PA).
 
 <div>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=vinelouzada&show_icons=true&theme=tokyonight"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=vinelouzada&show_icons=true&theme=midnight-purple"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinelouzada&layout=compact&theme=midnight-purple"/>
 </div>
 
