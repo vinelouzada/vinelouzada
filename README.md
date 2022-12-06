@@ -7,13 +7,23 @@
 
 **Languages and Tools** 👨🏽‍💻
 <div style="display: inline_block">
-<img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Vini-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="Vini-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br><br>
+<img align="center" alt="Vini-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+<img align="center" alt="Vini-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css">
+<img align="center" alt="Vini-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js">
+<img align="center" alt="Vini-React" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+<img align="center" alt="Vini-Php" height="30" width="40" src="https://skillicons.dev/icons?i=php">
+<img align="center" alt="Vini-Java" height="30" width="40" src="https://skillicons.dev/icons?i=java">
+<img align="center" alt="Vini-Java" height="30" width="40" src="https://skillicons.dev/icons?i=python">
+<img align="center" alt="Vini-Postman" height="30" width="40" src="https://skillicons.dev/icons?i=git"><br><br>
+<img align="center" alt="Vini-MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
+<img align="center" alt="Vini-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite">
+<img align="center" alt="Vini-mongodb" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb">
+<img align="center" alt="Vini-ps" height="30" width="40" src="https://skillicons.dev/icons?i=ps">
+<img align="center" alt="Vini-ai" height="30" width="40" src="https://skillicons.dev/icons?i=ai">
+<img align="center" alt="Vini-pr" height="30" width="40" src="https://skillicons.dev/icons?i=pr">
+<img align="center" alt="Vini-figma" height="30" width="40" src="https://skillicons.dev/icons?i=figma">
+<img align="center" alt="Vini-postman" height="30" width="40" src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg">
 
-  
  
 **Reach out to me** 🖖
   
