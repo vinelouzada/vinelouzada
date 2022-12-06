@@ -22,7 +22,7 @@
 <img align="center" alt="Vini-ai" height="30" width="40" src="https://skillicons.dev/icons?i=ai">
 <img align="center" alt="Vini-pr" height="30" width="40" src="https://skillicons.dev/icons?i=pr">
 <img align="center" alt="Vini-figma" height="30" width="40" src="https://skillicons.dev/icons?i=figma">
-<img align="center" alt="Vini-postman" height="30" width="40" src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg">
+<img align="center" alt="Vini-postman" height="30" width="40" src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg"><br><br>
 
  
 **Reach out to me** 🖖
