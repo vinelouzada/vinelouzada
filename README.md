@@ -1,7 +1,7 @@
 ## About me 📌
 
 <p align="left"> 
-  Paraense, amante de programação e design, <br> graduando em Engenharia de Computação na UFPA,<br> Estagiário do Scuba Team na Alura e desenvolvedor web.
+  Amante de programação e design, <br> graduando em Engenharia de Computação na UFPA,<br> Estagiário do Scuba Team na Alura e desenvolvedor web.
 </p>
 
 **Languages and Tools** 👨🏽‍💻
