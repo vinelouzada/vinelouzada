@@ -1,8 +1,10 @@
 ## About me 📌
 
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=vinelouzada&show_icons=true&theme=algolia"/>
 <p align="left"> 
-  Amante de programação e design, <br> graduando em Engenharia de Computação na UFPA,<br> Estagiário do Scuba Team na Alura e desenvolvedor web.
+  Paraense, amante de programação e design, <br> graduando em Engenharia de Computação na UFPA,<br> Estagiário do Scuba Team na Alura e desenvolvedor web.
 </p>
+    
 
 **Languages and Tools** 👨🏽‍💻
 <div style="display: inline_block">
