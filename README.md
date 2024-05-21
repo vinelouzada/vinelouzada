@@ -1,10 +1,4 @@
-## About me 📌
 
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=vinelouzada&show_icons=true&theme=algolia"/>
-<p align="left"> 
- Graduando em Engenharia de Computação na UFPA, Técnico em Eletrotécnica pelo IFPA e Designer Gráfico. Na Alura, sou Monitor da escola de Programação e DevOps. Nas horas vagas, amo assistir futebol e jogar um bom FPS.
-</p>
-    
 **Reach out to me** 🖖
   
 <p align="left">
