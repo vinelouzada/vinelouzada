@@ -28,7 +28,7 @@ Sou Mestrando em Computação Aplicada e Engenheiro de Computação, com mais de
 
 - [E-mail](mailto:vinelouzada@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/vinelouzada/)
-- [Site](https://www.vinelouzada@gmail.com)
+- [Site](https://www.vinelouzada.com)
 
 ##  GitHub Stats ⭐
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinelouzada&show_icons=true&theme=dark)
